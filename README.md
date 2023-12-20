@@ -33,7 +33,7 @@ Laporan Resmi Praktikum Modul 5 Jaringan Komputer 2023
 
 ## VLSM
 
-### Topologi GNS
+### Topologi GNS3
 <img width="476" alt="image" src="https://github.com/mashitaad/Jarkom-Modul-5-E10-2023/assets/87978863/f1cd63f2-e6e5-42ae-a843-6ba741baa344">
 
 ### Topologi VLSM
